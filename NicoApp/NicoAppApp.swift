@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct NicoAppApp: App {
+struct NicoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CountersView()
         }
     }
 }
