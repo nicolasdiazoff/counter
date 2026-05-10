@@ -1,6 +1,6 @@
 //
-//  NicoAppApp.swift
-//  NicoApp
+//  CounterApp.swift
+//  CounterApp
 //
 //  Created by Nicolás Díaz on 14/4/25.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct NicoApp: App {
+struct CounterApp: App {
     var body: some Scene {
         WindowGroup {
             CountersView()
