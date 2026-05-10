@@ -6,20 +6,50 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		4318CBC92FB1391E0090198B /* CountersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC62FB1391E0090198B /* CountersView.swift */; };
+		4318CBCA2FB1391E0090198B /* CounterStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC52FB1391E0090198B /* CounterStore.swift */; };
+		4318CBCB2FB1391E0090198B /* CounterSmallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBBF2FB1391E0090198B /* CounterSmallView.swift */; };
+		4318CBCC2FB1391E0090198B /* ArchiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC22FB1391E0090198B /* ArchiveView.swift */; };
+		4318CBCD2FB1391E0090198B /* NewCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC72FB1391E0090198B /* NewCounter.swift */; };
+		4318CBCE2FB1391E0090198B /* CounterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC42FB1391E0090198B /* CounterApp.swift */; };
+		4318CBCF2FB1391E0090198B /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC02FB1391E0090198B /* HeaderView.swift */; };
+		4318CBD02FB1391E0090198B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4318CBC32FB1391E0090198B /* Assets.xcassets */; };
+		4318CBD12FB1391E0090198B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4318CBC32FB1391E0090198B /* Assets.xcassets */; };
+		4318CBD22FB1391E0090198B /* CountersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC62FB1391E0090198B /* CountersView.swift */; };
+		4318CBD32FB1391E0090198B /* CounterStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC52FB1391E0090198B /* CounterStore.swift */; };
+		4318CBD42FB1391E0090198B /* CounterSmallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBBF2FB1391E0090198B /* CounterSmallView.swift */; };
+		4318CBD52FB1391E0090198B /* ArchiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC22FB1391E0090198B /* ArchiveView.swift */; };
+		4318CBD62FB1391E0090198B /* NewCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC72FB1391E0090198B /* NewCounter.swift */; };
+		4318CBD72FB1391E0090198B /* CounterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC42FB1391E0090198B /* CounterApp.swift */; };
+		4318CBD82FB1391E0090198B /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC02FB1391E0090198B /* HeaderView.swift */; };
+		4318CBD92FB1391E0090198B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4318CBC32FB1391E0090198B /* Assets.xcassets */; };
+		4318CBDA2FB1391E0090198B /* CountersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC62FB1391E0090198B /* CountersView.swift */; };
+		4318CBDB2FB1391E0090198B /* CounterStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC52FB1391E0090198B /* CounterStore.swift */; };
+		4318CBDC2FB1391E0090198B /* CounterSmallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBBF2FB1391E0090198B /* CounterSmallView.swift */; };
+		4318CBDD2FB1391E0090198B /* ArchiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC22FB1391E0090198B /* ArchiveView.swift */; };
+		4318CBDE2FB1391E0090198B /* NewCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC72FB1391E0090198B /* NewCounter.swift */; };
+		4318CBDF2FB1391E0090198B /* CounterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC42FB1391E0090198B /* CounterApp.swift */; };
+		4318CBE02FB1391E0090198B /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBC02FB1391E0090198B /* HeaderView.swift */; };
+		4318CBF32FB13C7B0090198B /* CounterAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBF12FB13C7B0090198B /* CounterAppTests.swift */; };
+		4318CBF72FB13C8C0090198B /* CounterAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBF42FB13C8C0090198B /* CounterAppUITests.swift */; };
+		4318CBF82FB13C8C0090198B /* CounterAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4318CBF52FB13C8C0090198B /* CounterAppUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		434875002DAE1E240087CE87 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 434874EA2DAE1E230087CE87 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 434874F12DAE1E230087CE87;
-			remoteInfo = NicoApp;
+			remoteInfo = CounterApp;
 		};
 		4348750A2DAE1E240087CE87 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 434874EA2DAE1E230087CE87 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 434874F12DAE1E230087CE87;
-			remoteInfo = NicoApp;
+			remoteInfo = CounterApp;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -37,28 +67,21 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		434874F22DAE1E230087CE87 /* NicoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NicoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		434874FF2DAE1E240087CE87 /* NicoAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NicoAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		434875092DAE1E240087CE87 /* NicoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NicoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4318CBBF2FB1391E0090198B /* CounterSmallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterSmallView.swift; sourceTree = "<group>"; };
+		4318CBC02FB1391E0090198B /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		4318CBC22FB1391E0090198B /* ArchiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveView.swift; sourceTree = "<group>"; };
+		4318CBC32FB1391E0090198B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4318CBC42FB1391E0090198B /* CounterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterApp.swift; sourceTree = "<group>"; };
+		4318CBC52FB1391E0090198B /* CounterStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterStore.swift; sourceTree = "<group>"; };
+		4318CBC62FB1391E0090198B /* CountersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountersView.swift; sourceTree = "<group>"; };
+		4318CBC72FB1391E0090198B /* NewCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewCounter.swift; sourceTree = "<group>"; };
+		4318CBEF2FB1397C0090198B /* CounterAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = CounterAppTests.xctest; path = "/Users/nicolasdiaz/code/Swift Apps/Counters/build/Debug-iphoneos/CounterApp.app/PlugIns/CounterAppTests.xctest"; sourceTree = "<absolute>"; };
+		4318CBF02FB1398A0090198B /* CounterApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = CounterApp.app; path = "/Users/nicolasdiaz/code/Swift Apps/Counters/build/Debug-iphoneos/CounterApp.app"; sourceTree = "<absolute>"; };
+		4318CBF12FB13C7B0090198B /* CounterAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterAppTests.swift; sourceTree = "<group>"; };
+		4318CBF42FB13C8C0090198B /* CounterAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterAppUITests.swift; sourceTree = "<group>"; };
+		4318CBF52FB13C8C0090198B /* CounterAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		434875092DAE1E240087CE87 /* CounterAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = CounterAppUITests.xctest; path = "/Users/nicolasdiaz/code/Swift Apps/Counters/build/Debug-iphoneos/CounterAppUITests-Runner.app/PlugIns/CounterAppUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		434874F42DAE1E230087CE87 /* NicoApp */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = NicoApp;
-			sourceTree = "<group>";
-		};
-		434875022DAE1E240087CE87 /* NicoAppTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = NicoAppTests;
-			sourceTree = "<group>";
-		};
-		4348750C2DAE1E240087CE87 /* NicoAppUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = NicoAppUITests;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		434874EF2DAE1E230087CE87 /* Frameworks */ = {
@@ -85,32 +108,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4318CBC12FB1391E0090198B /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				4318CBBF2FB1391E0090198B /* CounterSmallView.swift */,
+				4318CBC02FB1391E0090198B /* HeaderView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		4318CBC82FB1391E0090198B /* CounterApp */ = {
+			isa = PBXGroup;
+			children = (
+				4318CBC12FB1391E0090198B /* Components */,
+				4318CBC22FB1391E0090198B /* ArchiveView.swift */,
+				4318CBC32FB1391E0090198B /* Assets.xcassets */,
+				4318CBC42FB1391E0090198B /* CounterApp.swift */,
+				4318CBC52FB1391E0090198B /* CounterStore.swift */,
+				4318CBC62FB1391E0090198B /* CountersView.swift */,
+				4318CBC72FB1391E0090198B /* NewCounter.swift */,
+			);
+			path = CounterApp;
+			sourceTree = "<group>";
+		};
+		4318CBF22FB13C7B0090198B /* CounterAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				4318CBF12FB13C7B0090198B /* CounterAppTests.swift */,
+			);
+			path = CounterAppTests;
+			sourceTree = "<group>";
+		};
+		4318CBF62FB13C8C0090198B /* CounterAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				4318CBF42FB13C8C0090198B /* CounterAppUITests.swift */,
+				4318CBF52FB13C8C0090198B /* CounterAppUITestsLaunchTests.swift */,
+			);
+			path = CounterAppUITests;
+			sourceTree = "<group>";
+		};
 		434874E92DAE1E230087CE87 = {
 			isa = PBXGroup;
 			children = (
-				434874F42DAE1E230087CE87 /* NicoApp */,
-				434875022DAE1E240087CE87 /* NicoAppTests */,
-				4348750C2DAE1E240087CE87 /* NicoAppUITests */,
-				434874F32DAE1E230087CE87 /* Products */,
+				4318CBC82FB1391E0090198B /* CounterApp */,
+				4318CBF22FB13C7B0090198B /* CounterAppTests */,
+				4318CBF62FB13C8C0090198B /* CounterAppUITests */,
 			);
-			sourceTree = "<group>";
-		};
-		434874F32DAE1E230087CE87 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				434874F22DAE1E230087CE87 /* NicoApp.app */,
-				434874FF2DAE1E240087CE87 /* NicoAppTests.xctest */,
-				434875092DAE1E240087CE87 /* NicoAppUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		434874F12DAE1E230087CE87 /* NicoApp */ = {
+		434874F12DAE1E230087CE87 /* CounterApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 434875132DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "NicoApp" */;
+			buildConfigurationList = 434875132DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "CounterApp" */;
 			buildPhases = (
 				434874EE2DAE1E230087CE87 /* Sources */,
 				434874EF2DAE1E230087CE87 /* Frameworks */,
@@ -121,19 +173,16 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				434874F42DAE1E230087CE87 /* NicoApp */,
-			);
-			name = NicoApp;
+			name = CounterApp;
 			packageProductDependencies = (
 			);
-			productName = NicoApp;
-			productReference = 434874F22DAE1E230087CE87 /* NicoApp.app */;
+			productName = CounterApp;
+			productReference = 4318CBF02FB1398A0090198B /* CounterApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		434874FE2DAE1E240087CE87 /* NicoAppTests */ = {
+		434874FE2DAE1E240087CE87 /* CounterAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 434875162DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "NicoAppTests" */;
+			buildConfigurationList = 434875162DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "CounterAppTests" */;
 			buildPhases = (
 				434874FB2DAE1E240087CE87 /* Sources */,
 				434874FC2DAE1E240087CE87 /* Frameworks */,
@@ -144,19 +193,16 @@
 			dependencies = (
 				434875012DAE1E240087CE87 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				434875022DAE1E240087CE87 /* NicoAppTests */,
-			);
-			name = NicoAppTests;
+			name = CounterAppTests;
 			packageProductDependencies = (
 			);
-			productName = NicoAppTests;
-			productReference = 434874FF2DAE1E240087CE87 /* NicoAppTests.xctest */;
+			productName = CounterAppTests;
+			productReference = 4318CBEF2FB1397C0090198B /* CounterAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		434875082DAE1E240087CE87 /* NicoAppUITests */ = {
+		434875082DAE1E240087CE87 /* CounterAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 434875192DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "NicoAppUITests" */;
+			buildConfigurationList = 434875192DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "CounterAppUITests" */;
 			buildPhases = (
 				434875052DAE1E240087CE87 /* Sources */,
 				434875062DAE1E240087CE87 /* Frameworks */,
@@ -167,14 +213,11 @@
 			dependencies = (
 				4348750B2DAE1E240087CE87 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				4348750C2DAE1E240087CE87 /* NicoAppUITests */,
-			);
-			name = NicoAppUITests;
+			name = CounterAppUITests;
 			packageProductDependencies = (
 			);
-			productName = NicoAppUITests;
-			productReference = 434875092DAE1E240087CE87 /* NicoAppUITests.xctest */;
+			productName = CounterAppUITests;
+			productReference = 434875092DAE1E240087CE87 /* CounterAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -185,7 +228,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
-				LastUpgradeCheck = 1630;
+				LastUpgradeCheck = 2640;
 				TargetAttributes = {
 					434874F12DAE1E230087CE87 = {
 						CreatedOnToolsVersion = 16.3;
@@ -200,7 +243,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 434874ED2DAE1E230087CE87 /* Build configuration list for PBXProject "NicoApp" */;
+			buildConfigurationList = 434874ED2DAE1E230087CE87 /* Build configuration list for PBXProject "CounterApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -210,13 +253,13 @@
 			mainGroup = 434874E92DAE1E230087CE87;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 434874F32DAE1E230087CE87 /* Products */;
+			productRefGroup = 434874E92DAE1E230087CE87;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				434874F12DAE1E230087CE87 /* NicoApp */,
-				434874FE2DAE1E240087CE87 /* NicoAppTests */,
-				434875082DAE1E240087CE87 /* NicoAppUITests */,
+				434874F12DAE1E230087CE87 /* CounterApp */,
+				434874FE2DAE1E240087CE87 /* CounterAppTests */,
+				434875082DAE1E240087CE87 /* CounterAppUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -226,6 +269,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4318CBD92FB1391E0090198B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,6 +277,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4318CBD12FB1391E0090198B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +285,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4318CBD02FB1391E0090198B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +296,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4318CBDA2FB1391E0090198B /* CountersView.swift in Sources */,
+				4318CBDB2FB1391E0090198B /* CounterStore.swift in Sources */,
+				4318CBDC2FB1391E0090198B /* CounterSmallView.swift in Sources */,
+				4318CBDD2FB1391E0090198B /* ArchiveView.swift in Sources */,
+				4318CBDE2FB1391E0090198B /* NewCounter.swift in Sources */,
+				4318CBDF2FB1391E0090198B /* CounterApp.swift in Sources */,
+				4318CBE02FB1391E0090198B /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +310,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4318CBD22FB1391E0090198B /* CountersView.swift in Sources */,
+				4318CBD32FB1391E0090198B /* CounterStore.swift in Sources */,
+				4318CBD42FB1391E0090198B /* CounterSmallView.swift in Sources */,
+				4318CBD52FB1391E0090198B /* ArchiveView.swift in Sources */,
+				4318CBF32FB13C7B0090198B /* CounterAppTests.swift in Sources */,
+				4318CBD62FB1391E0090198B /* NewCounter.swift in Sources */,
+				4318CBD72FB1391E0090198B /* CounterApp.swift in Sources */,
+				4318CBD82FB1391E0090198B /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +325,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4318CBC92FB1391E0090198B /* CountersView.swift in Sources */,
+				4318CBCA2FB1391E0090198B /* CounterStore.swift in Sources */,
+				4318CBCB2FB1391E0090198B /* CounterSmallView.swift in Sources */,
+				4318CBCC2FB1391E0090198B /* ArchiveView.swift in Sources */,
+				4318CBCD2FB1391E0090198B /* NewCounter.swift in Sources */,
+				4318CBF72FB13C8C0090198B /* CounterAppUITests.swift in Sources */,
+				4318CBF82FB13C8C0090198B /* CounterAppUITestsLaunchTests.swift in Sources */,
+				4318CBCE2FB1391E0090198B /* CounterApp.swift in Sources */,
+				4318CBCF2FB1391E0090198B /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,12 +342,12 @@
 /* Begin PBXTargetDependency section */
 		434875012DAE1E240087CE87 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 434874F12DAE1E230087CE87 /* NicoApp */;
+			target = 434874F12DAE1E230087CE87 /* CounterApp */;
 			targetProxy = 434875002DAE1E240087CE87 /* PBXContainerItemProxy */;
 		};
 		4348750B2DAE1E240087CE87 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 434874F12DAE1E230087CE87 /* NicoApp */;
+			target = 434874F12DAE1E230087CE87 /* CounterApp */;
 			targetProxy = 4348750A2DAE1E240087CE87 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -342,6 +412,7 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -399,6 +470,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -409,23 +481,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = JXCCJ9385L;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Counter;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.NicoApp;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.CounterApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -441,23 +516,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = JXCCJ9385L;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Counter;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.NicoApp;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.CounterApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -478,12 +556,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.NicoAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.CounterAppTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NicoApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NicoApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CounterApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CounterApp";
 			};
 			name = Debug;
 		};
@@ -497,12 +578,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.NicoAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.CounterAppTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NicoApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NicoApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CounterApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CounterApp";
 			};
 			name = Release;
 		};
@@ -514,12 +598,12 @@
 				DEVELOPMENT_TEAM = JXCCJ9385L;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.NicoAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.CounterAppUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = NicoApp;
+				TEST_TARGET_NAME = CounterApp;
 			};
 			name = Debug;
 		};
@@ -531,19 +615,19 @@
 				DEVELOPMENT_TEAM = JXCCJ9385L;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.NicoAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = nicolasdiazoff.CounterAppUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = NicoApp;
+				TEST_TARGET_NAME = CounterApp;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		434874ED2DAE1E230087CE87 /* Build configuration list for PBXProject "NicoApp" */ = {
+		434874ED2DAE1E230087CE87 /* Build configuration list for PBXProject "CounterApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				434875112DAE1E240087CE87 /* Debug */,
@@ -552,7 +636,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		434875132DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "NicoApp" */ = {
+		434875132DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "CounterApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				434875142DAE1E240087CE87 /* Debug */,
@@ -561,7 +645,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		434875162DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "NicoAppTests" */ = {
+		434875162DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "CounterAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				434875172DAE1E240087CE87 /* Debug */,
@@ -570,7 +654,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		434875192DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "NicoAppUITests" */ = {
+		434875192DAE1E240087CE87 /* Build configuration list for PBXNativeTarget "CounterAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4348751A2DAE1E240087CE87 /* Debug */,
